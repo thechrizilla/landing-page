@@ -1,7 +1,4 @@
-/* WHOLE PAGE */
-* {
-    font-family: 'Roboto';
-}
+
 
 /* BUTTONS */
 button {
@@ -143,6 +140,7 @@ a, a:visited {
     font-size: 18px;
     color: white;
     align-items: center;
+    justify-content: center;
     padding: 50px;
     margin: 35px;
     border-radius: 8px;
@@ -169,6 +167,25 @@ a, a:visited {
 
 
 /* FOOTER SECTION */
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1F2937;
+    color: white;
+    padding: 32px;
+}
+
+
+/* OVERALL LOOK */
+body {
+    margin: 0;
+}
+
+* {
+    font-family: 'Roboto';
+}
 
 
 
