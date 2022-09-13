@@ -137,7 +137,35 @@ a, a:visited {
     font-weight: bolder;
 }
 /* SIGNUP SECTION */
+.container-four {
+    display: flex;
+    background-color: #3882F6;
+    font-size: 18px;
+    color: white;
+    align-items: center;
+    padding: 50px;
+    margin: 35px;
+    border-radius: 8px;
+}
 
+.modal {
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+}
+
+.call-to-action {
+    font-weight: bold;
+}
+
+.some-text {
+    font-size: 12px;
+}
+
+.call-button {
+    border: solid white;
+    margin-left: 225px;
+}
 
 
 /* FOOTER SECTION */
