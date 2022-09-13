@@ -5,7 +5,7 @@
 
 /* BUTTONS */
 button {
-    font-size: 18px;
+    font-size: 15px;
     color: white;
     background-color: #3882F6;
     border-radius: 7px;
@@ -116,8 +116,28 @@ a, a:visited {
 
 /* QUOTE SECTION */
 
+.container-three {
+    display: flex;
+    background-color: #E5E7EB;
+    flex-direction: column;
+    padding: 100px;
+}
 
+.quote {
+    color:#1F2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 50;
+    align-items: center;
+}
+
+.famous-person {
+    text-align: right;
+    color: #1F2937;
+    font-weight: bolder;
+}
 /* SIGNUP SECTION */
+
 
 
 /* FOOTER SECTION */
